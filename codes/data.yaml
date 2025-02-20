@@ -1,9 +1,9 @@
 # Underwater Object Detection Dataset Configuration
 
 # Paths to the dataset
-train: C:/Users/Shahid Ahamed Hasib/Downloads/archive/train/images  # path to the training images
-val: C:/Users/Shahid Ahamed Hasib/Downloads/archive/valid/images    # path to the validation images
-test: C:/Users/Shahid Ahamed Hasib/Downloads/archive/test/images    # path to the test images (optional)
+train: D:/GIT HUB/Underwater-object-detection-using-yolov8/train/images  # path to the training images
+val: D:/GIT HUB/Underwater-object-detection-using-yolov8/valid/images    # path to the validation images
+test: D:/GIT HUB/Underwater-object-detection-using-yolov8/test/images    # path to the test images (optional)
 
 # Number of classes
 nc: 7  # number of classes (fish, jellyfish, penguin, puffin, shark, starfish, stingray)
