@@ -1,7 +1,7 @@
 # Path to dataset images and annotations
-train: C:/Users/Shahid Ahamed Hasib/Downloads/Underwater-object-detection-dataset-main/imgs/train
-val: C:/Users/Shahid Ahamed Hasib/Downloads/Underwater-object-detection-dataset-main/imgs/val
-test: C:/Users/Shahid Ahamed Hasib/Downloads/Underwater-object-detection-dataset-main/imgs/test  # Optional, if you want to test
+train: D:/GIT HUB/Underwater-object-detection-using-yolov8/train
+val: D:/GIT HUB/Underwater-object-detection-using-yolov8/valid
+test: D:/GIT HUB/Underwater-object-detection-using-yolov8/test  # Optional, if you want to test
 
 # Number of classes
 nc: 3  # You have 3 classes
